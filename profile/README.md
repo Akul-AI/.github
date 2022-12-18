@@ -16,3 +16,5 @@ Welcome to AkulAI! We aim to make the best open-source voice assistant out there
 
 ## Contribution
 While we can't promise a paying job, we would love all the help we can get! If you want to help, pick a repo, make a pull request with whatever you want to do, and we will merge it if we think it is good! Contact me at akulgoel2010@gmail.com to be a member of this organization!
+
+Oh, and if you are a member, try to make yourself public. You deserve the credit.
